@@ -1,0 +1,3 @@
+[submodule "escseq"]
+	path = escseq
+	url = https://github.com/thechnet/escseq

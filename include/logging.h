@@ -13,7 +13,7 @@ Modified 2022-09-27
 #define ESCSEQ_WIDE
 #include <wchar.h>
 #endif
-#include "../escseq/escseq.h"
+#include "../escseq/include/escseq.h"
 
 /* Character-width differences. */
 #ifdef LOGGING_WIDE
