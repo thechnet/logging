@@ -1,0 +1,15 @@
+private
+.vscode*
+desktop.ini
+.DS_Store
+__pycache__
+*.dSYM
+*.exe
+*.exe.stackdump
+*.ilk
+*.pdb
+*.dll
+*.so
+*.a
+*.o
+*.log
