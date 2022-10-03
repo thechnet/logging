@@ -1,5 +1,7 @@
 # logging
 
+> This repository is deprecated and will be archived once I stop depending on it in old projects. For its more robust, more powerful successor, see [Beeper](https://github.com/thechnet/beeper).
+
 A janky, purely macro-based C logging "library".
 
 - Should not be used as a permanent solution.
